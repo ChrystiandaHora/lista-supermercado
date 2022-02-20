@@ -1,0 +1,3 @@
+1) Escreva um algoritmo que leia o nome de produtos e os seus preços, devem ser exibidos como se fosse uma lista de compras:
+    a) Exiba os produtos um abaixo do outro, assim que for digitado o nome e o preço.
+    b) O usuário deverá indicar quando não tiver mais nenhum produto para adicionar.
